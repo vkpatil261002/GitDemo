@@ -14,7 +14,12 @@ public class Student {
         this.age = age;
         this.course = course;
     }
-
+/*k.rgjniaeourghioauihvipoarerjio goigvn;osdkn;skvv;lkav oe vofj ve
+e]
+erge
+egwe
+eg;l
+we;g */
     // Getters and setters
     public int getId() { return id; }
     public void setId(int id) { this.id = id; }
